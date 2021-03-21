@@ -408,9 +408,6 @@ header .headlogo p {
 
 .main {
   width: 100%;
-  background: url(/img/near_the_station/bg-station-home.png) no-repeat center
-      bottom/1472px,
-    url(../img/near_the_station/bg-hause.png) repeat-x bottom/contain;
   border-top: solid 24px #c0c0c0;
   background: none;
   overflow: hidden;
@@ -418,12 +415,12 @@ header .headlogo p {
 }
 
 .main-inner {
-  background: url(/img/mv-bg.png) no-repeat center top/0px;
+  background: url(img/mv-bg.png) no-repeat center top/0px;
   margin: 0 auto;
   width: 100%;
   min-width: 0;
   padding: 92% 0;
-  background-image: url(/img/mv-bg.png);
+  background-image: url(img/mv-bg.png);
   background-repeat: no-repeat;
   background-position: top center;
   background-size: contain;
@@ -549,7 +546,7 @@ header .headlogo p {
 
 .btn_entry a::before {
   content: "";
-  background: url(/img/product.png) no-repeat;
+  background: url(img/product.png) no-repeat;
   height: 39vw;
   width: 47vw;
   position: absolute;
@@ -606,7 +603,7 @@ header .headlogo p {
 ---------------------------------------------------------------------------- */
 
 .lead .inner {
-  background: url(/img/award-bg.png) no-repeat;
+  background: url(img/award-bg.png) no-repeat;
   background-size: cover;
   display: block;
   position: relative;
@@ -684,31 +681,31 @@ p.sub-icon {
   position: relative;
 }
 .lead-txt .sub-icon::before {
-  background: url(/img/award-icon.png) no-repeat;
+  background: url(img/award-icon.png) no-repeat;
   background-size: 100%;
 }
 .about .sub-icon::before {
-  background: url(/img/about-icon.png) no-repeat;
+  background: url(img/about-icon.png) no-repeat;
   background-size: 97%;
 }
 .trouble .inner .sub-icon::before {
-  background: url(/img/trouble-icon.png) no-repeat;
+  background: url(img/trouble-icon.png) no-repeat;
   background-size: 97%;
 }
 .new .inner .sub-icon::before {
-  background: url(/img/new-icon.png) no-repeat;
+  background: url(img/new-icon.png) no-repeat;
   background-size: 97%;
 }
 .nmn .inner .sub-icon::before {
-  background: url(/img/solution-icon.png) no-repeat;
+  background: url(img/solution-icon.png) no-repeat;
   background-size: 97%;
 }
 .point .sub-icon::before {
-  background: url(/img/point-icon.png) no-repeat;
+  background: url(img/point-icon.png) no-repeat;
   background-size: 97%;
 }
 .qna .sub-icon::before {
-  background: url(/img/qna-icon.png) no-repeat;
+  background: url(img/qna-icon.png) no-repeat;
   background-size: 97%;
 }
 /* section-about
@@ -721,7 +718,7 @@ p.sub-icon {
   text-align: center;
   margin: 0 auto;
   color: var(--black);
-  background: url(/img/about-bg.png) no-repeat;
+  background: url(img/about-bg.png) no-repeat;
   background-size: contain;
   display: block;
   background-position: top;
@@ -772,7 +769,7 @@ p.sub-icon {
   position: relative;
 }
 .trouble01 {
-  background: url(/img/trouble-bg.png) no-repeat;
+  background: url(img/trouble-bg.png) no-repeat;
   background-size: cover;
   background-position: top;
 }
@@ -800,7 +797,7 @@ p.sub-icon {
   font-size: 150%;
 }
 .trouble03 {
-  background: url(/img/trouble03-bg.png) no-repeat;
+  background: url(img/trouble03-bg.png) no-repeat;
   background-color: black;
   background-size: contain;
   background-position: center 18vw;
@@ -866,7 +863,7 @@ p.sub-icon {
 #solution {
   padding: 26% 0 18%;
   margin: 0 auto;
-  background: url(/img/solution-bg.png) no-repeat;
+  background: url(img/solution-bg.png) no-repeat;
   background-position: top;
   position: relative;
   z-index: -1;
@@ -902,7 +899,7 @@ p.sub-icon {
   padding-left: 8%;
 }
 .nmn {
-  background: url(/img/nmn-bg.png) #e2e3e2;
+  background: url(img/nmn-bg.png) #e2e3e2;
   display: block;
   position: relative;
   padding-bottom: 10%;
@@ -973,7 +970,7 @@ p.sub-icon {
   color: var(--black);
 }
 .new .inner {
-  background: url(/img/new-bg.png) no-repeat;
+  background: url(img/new-bg.png) no-repeat;
   background-color: white;
   background-size: contain;
   background-position: center 62vw;
@@ -1056,7 +1053,7 @@ p.sub-icon {
 /* section-point
 ---------------------------------------------------------------------------- */
 .point {
-  background: url(/img/point-bg.png) no-repeat;
+  background: url(img/point-bg.png) no-repeat;
   background-color: var(--black);
   background-size: contain;
   background-position: top;
@@ -1070,7 +1067,7 @@ p.sub-icon {
 }
 
 .point .sub-icon::after {
-  content: url(/img/sirtuin-small-logo.png);
+  content: url(img/sirtuin-small-logo.png);
   position: absolute;
   top: 40px;
   display: block;
@@ -1148,7 +1145,7 @@ p.sub-icon {
   padding: 4% 0;
 }
 #point-item-04 {
-  background: url(/img/point-item04.png) no-repeat;
+  background: url(img/point-item04.png) no-repeat;
   background-color: #e0e0e0;
   background-position-x: 55%;
   background-size: cover;
@@ -1189,7 +1186,7 @@ p.sub-icon {
   display: inline-block; /*忘れずに！*/
   width: 50px; /*画像の幅*/
   height: 50px; /*画像の高さ*/
-  background-image: url(../img/x.png);
+  background-image: url(..img/x.png);
   background-size: contain;
   vertical-align: middle;
   margin: 0 auto;
