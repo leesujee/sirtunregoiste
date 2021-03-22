@@ -424,6 +424,7 @@ header .headlogo p {
   background-repeat: no-repeat;
   background-position: top center;
   background-size: contain;
+  color: var(--black);
 }
 
 .main-inner .btn_area {
