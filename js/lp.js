@@ -39,11 +39,6 @@ $(function() {
 });
 
 $(function() {
-    ScrollReveal().reveal('.main-bg', {
-        distance: '100px',
-        origin: 'bottom',
-        duration: '2000'
-    });
     ScrollReveal().reveal('.main-ttl', {
         distance: '100px',
         origin: 'bottom',
@@ -54,7 +49,7 @@ $(function() {
         distance: '90px',
         origin: 'bottom',
         duration: '2000',
-        delay: '1500'
+        delay: '1000'
     });
     ScrollReveal().reveal('.about-ani', {
         distance: '50px',
@@ -66,7 +61,6 @@ $(function() {
         origin: 'bottom',
         viewFactor: '0.8',
         duration: '1000',
-        delay: '1000'
     });
     ScrollReveal().reveal('.trouble-graph', {
         distance: '50px',
