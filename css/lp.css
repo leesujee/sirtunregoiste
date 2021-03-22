@@ -428,7 +428,7 @@ header .headlogo p {
 }
 
 .main-inner .btn_area {
-  top: 137vw;
+  top: 138vw;
 }
 
 .main-img {
@@ -449,7 +449,7 @@ header .headlogo p {
   position: absolute;
   left: 0;
   right: 0;
-  top: 21vw;
+  top: 19vw;
 }
 .main-img .main-bg {
   position: absolute;
@@ -461,7 +461,7 @@ header .headlogo p {
   position: absolute;
   left: 0;
   right: 0;
-  top: 117vw;
+  top: 115vw;
   padding: 4% 12%;
 }
 
@@ -507,7 +507,7 @@ header .headlogo p {
   line-height: 1.7;
   position: absolute;
   top: 158vw;
-  padding: 5%;
+  padding: 3% 5%;
   width: 100%;
 }
 
