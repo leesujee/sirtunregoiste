@@ -419,7 +419,7 @@ header .headlogo p {
   margin: 0 auto;
   width: 100%;
   min-width: 0;
-  padding: 92% 0;
+  padding: 89% 0;
   background-image: url(/sirtunregoiste/img/mv-bg.png);
   background-repeat: no-repeat;
   background-position: top center;
@@ -489,12 +489,12 @@ header .headlogo p {
   width: 38%;
 }
 .main-sub--text--01 {
-  border-bottom: 1px solid white;
-  padding-bottom: 8%;
+  border-bottom: 1px solid var(--black);
+  padding-bottom: 7%;
 }
 .main-sub--text--01 span:nth-of-type(4) {
   border-radius: 8px;
-  border: 1px solid white;
+  border: 1px solid var(--black);
   padding: 1% 6%;
 }
 .main-sub--text--02 {
