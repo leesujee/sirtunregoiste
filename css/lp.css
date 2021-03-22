@@ -1186,7 +1186,7 @@ p.sub-icon {
   display: inline-block;
   width: 50px;
   height: 50px;
-  background-image: url(../sirtunregoiste/img/x.png);
+  background-image: url(/sirtunregoiste/img/x.png);
   background-size: contain;
   vertical-align: middle;
   margin: 0 auto;
