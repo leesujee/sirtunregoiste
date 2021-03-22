@@ -1462,7 +1462,8 @@ footer .txt_inner p:last-of-type {
   .lead-txt h3 span {
     font-size: 108px;
   }
-  .trouble .inner h2 {
+  .trouble .inner h2,
+  #solution .inner h2 {
     font-size: 51px;
   }
   .trouble01::before {
