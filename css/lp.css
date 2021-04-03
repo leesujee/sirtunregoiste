@@ -161,7 +161,7 @@ select {
 }
 
 body {
-  background: #2c2c2c;
+  /* background: #2c2c2c; */
   color: #fff;
   line-height: 1;
   font-size: 14px;
@@ -262,6 +262,7 @@ sup {
 
 .wrap {
   overflow: hidden;
+  background: #2c2c2c;
 }
 
 .trouble_cont div,
@@ -413,7 +414,7 @@ header .headlogo p {
 }
 
 .main-inner .btn_area {
-  top: 143vw;
+  top: 136vw;
 }
 
 .main-img {
@@ -520,6 +521,7 @@ header .headlogo p {
   height: 6em;
   width: 90%;
   height: 21vw;
+  margin: 0 auto;
 }
 .btn_entry a span {
   display: block;
@@ -832,7 +834,6 @@ p.sub-icon {
   margin: 0 auto;
   background-position: top;
   position: relative;
-  z-index: -1;
   background: #ffffff;
 }
 #solution .inner h2 {
@@ -1424,8 +1425,8 @@ pc
     font-size: 35px;
   }
   .point-title-item {
-    width: 200px;
-    height: 200px;
+    width: 195px;
+    height: 195px;
   }
   .acd-label {
     font-size: 19px;
