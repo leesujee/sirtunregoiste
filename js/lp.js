@@ -39,59 +39,58 @@ $(function() {
 });
 
 $(function() {
-    ScrollReveal().reveal('.main-ttl', {
-        distance: '100px',
-        origin: 'bottom',
-        duration: '2000',
-        delay: '1000'
-    });
-    ScrollReveal().reveal('.award-no1', {
+    ScrollReveal().reveal('.lead', {
         distance: '90px',
         origin: 'bottom',
         duration: '2000',
         delay: '1000'
     });
-    ScrollReveal().reveal('.about-ani', {
-        distance: '50px',
-        origin: 'right',
-        duration: '1000'
-    });
-    ScrollReveal().reveal('.trouble_cont', {
+    ScrollReveal().reveal('.about', {
         distance: '50px',
         origin: 'bottom',
-        viewFactor: '0.8',
+        duration: '1000'
+    });
+    ScrollReveal().reveal('.trouble01', {
+        distance: '50px',
+        origin: 'bottom',
         duration: '1000',
     });
-    ScrollReveal().reveal('.trouble-graph', {
+    ScrollReveal().reveal('.nmn', {
+        distance: '50px',
+        origin: 'bottom',
+        duration: '1000'
+    });
+    ScrollReveal().reveal('.new', {
         distance: '50px',
         origin: 'top',
         viewFactor: '0.8',
         duration: '1000'
     });
-    ScrollReveal().reveal('.nmn-trouble-graph', {
+    ScrollReveal().reveal('#point-item-01', {
         distance: '50px',
-        origin: 'top',
+        origin: 'right',
         viewFactor: '0.8',
-        duration: '1000'
-    });
-    ScrollReveal().reveal('.mouse', {
-        distance: '50px',
-        origin: 'bottom',
-        viewFactor: '0.4',
         duration: '500',
         easing: 'linear'
     });
-    ScrollReveal().reveal('.troble-03', {
+    ScrollReveal().reveal('#point-item-02', {
         distance: '50px',
-        origin: 'left',
-        viewFactor: '0.4',
+        origin: 'right',
+        viewFactor: '0.8',
         duration: '500',
         easing: 'linear'
     });
-    ScrollReveal().reveal('.point-title', {
+    ScrollReveal().reveal('#point-item-03', {
         distance: '50px',
-        origin: 'bottom',
-        viewFactor: '0.4',
+        origin: 'right',
+        viewFactor: '0.8',
+        duration: '500',
+        easing: 'linear'
+    });
+    ScrollReveal().reveal('#point-item-04', {
+        distance: '50px',
+        origin: 'right',
+        viewFactor: '0.8',
         duration: '500',
         easing: 'linear'
     });
