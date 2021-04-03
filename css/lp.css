@@ -764,19 +764,7 @@ p.sub-icon {
 .trouble01 {
   background: linear-gradient(180deg, #303030, #1d1d1d);
 }
-.trouble01::before {
-  content: "";
-  position: absolute;
-  right: 0;
-  bottom: -41px;
-  left: 0;
-  width: 0px;
-  height: 0px;
-  margin: auto;
-  border-style: solid;
-  border-color: #343435 transparent transparent transparent;
-  border-width: 45px 50vw 0 50vw;
-}
+
 .trouble02 {
   padding: 13% 0;
 }
