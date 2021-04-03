@@ -1407,8 +1407,7 @@ footer .txt_inner p:last-of-type {
     width: 709px;
   }
   .btn_entry {
-    width: 83%;
-    height: 149px;
+    background: none;
   }
   .btn_entry a span img {
     width: 387px;
@@ -1417,8 +1416,7 @@ footer .txt_inner p:last-of-type {
     right: 55px;
   }
   .btn_entry a::before {
-    top: -1px;
-    width: 300px;
+    display: none;
   }
   .btn_entry a::after {
     top: 60px;
