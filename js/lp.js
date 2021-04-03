@@ -60,12 +60,6 @@ $(function() {
         origin: 'bottom',
         duration: '1000'
     });
-    ScrollReveal().reveal('.new', {
-        distance: '50px',
-        origin: 'top',
-        viewFactor: '0.8',
-        duration: '1000'
-    });
     ScrollReveal().reveal('#point-item-01', {
         distance: '50px',
         origin: 'right',
