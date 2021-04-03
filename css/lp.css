@@ -592,6 +592,10 @@ header .headlogo p {
   color: #ffffff;
   font-size: 5vw;
 }
+@media only screen and (min-width: 768px) {
+  .btn_area {
+  }
+}
 
 /* section-lead
 ---------------------------------------------------------------------------- */
