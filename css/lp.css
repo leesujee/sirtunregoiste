@@ -592,11 +592,6 @@ header .headlogo p {
   color: #ffffff;
   font-size: 5vw;
 }
-@media only screen and (min-width: 768px) {
-  .btn_area {
-    bottom: 0;
-  }
-}
 
 /* section-lead
 ---------------------------------------------------------------------------- */
@@ -767,9 +762,7 @@ p.sub-icon {
   position: relative;
 }
 .trouble01 {
-  background: url(/sirtunregoiste/img/trouble-bg.png) no-repeat;
-  background-size: cover;
-  background-position: top;
+  background: linear-gradient(180deg, #303030, #1d1d1d);
 }
 .trouble01::before {
   content: "";
