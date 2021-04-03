@@ -415,11 +415,9 @@ header .headlogo p {
 }
 
 .main-inner {
-  background: url(/sirtunregoiste/img/mv-bg.png) no-repeat center top/0px;
   margin: 0 auto;
   width: 100%;
   min-width: 0;
-  padding: 89% 0;
   background-image: url(/sirtunregoiste/img/mv-bg.png);
   background-repeat: no-repeat;
   background-position: top center;
@@ -428,7 +426,7 @@ header .headlogo p {
 }
 
 .main-inner .btn_area {
-  top: 138vw;
+  top: 143vw;
 }
 
 .main-img {
@@ -712,7 +710,6 @@ p.sub-icon {
 /* section-about
 ---------------------------------------------------------------------------- */
 .about {
-  padding-top: 23%;
   background: linear-gradient(180deg, white, #f8f8f8);
 }
 .about .inner {
