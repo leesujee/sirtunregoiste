@@ -1303,11 +1303,6 @@ footer .txt_inner {
   line-height: 1.6;
   padding: 2% 7% 4% 7%;
 }
-footer .txt_inner p:last-of-type {
-  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ",
-    Meiryo, Osaka, "游ゴシック体", YuGothic, "游ゴシック Medium",
-    "Yu Gothic Medium", "游ゴシック", "Yu Gothic", sans-serif;
-}
 .floating {
   position: fixed;
   width: 100%;
