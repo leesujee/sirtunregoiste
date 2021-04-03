@@ -594,6 +594,7 @@ header .headlogo p {
 }
 @media only screen and (min-width: 768px) {
   .btn_area {
+    bottom: 0;
   }
 }
 
